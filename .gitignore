@@ -1,4 +1,5 @@
-node_modules/
 dist/
-app/css/
-app/header.min.css
+*.txt
+*.md
+.git/
+node_modules/

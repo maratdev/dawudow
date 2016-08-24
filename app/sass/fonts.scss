@@ -1,4 +1,5 @@
-@import "bourbon"
+@import "bourbon";
 
-+font-face("roboto", "../fonts/RobotoRegular/RobotoRegular", $file-formats: eot woff ttf)
-+font-face("roboto", "../fonts/RobotoBold/RobotoBold", bold, $file-formats: eot woff ttf)
+@include font-face("YefimovSerif-Regular", "../fonts/YefimovSerif-Regular/YefimovSerif-Regular", $file-formats: eot woff woff2 ttf otf svg);
+@include font-face("YefimovSerif-Light", "../fonts/YefimovSerif-Light/YefimovSerif-Light", light, $file-formats: eot woff woff2 ttf otf svg);
+@include font-face("YefimovSerif-Bold", "../fonts/YefimovSerif-Bold/YefimovSerif-Bold", bold, $file-formats: eot woff woff2 ttf otf svg);

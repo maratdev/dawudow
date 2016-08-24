@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'YefimovSerif-Regular';
+  src: url('YefimovSerif-Regular.eot');
+  src: url('YefimovSerif-Regular.woff2') format('woff2'),
+       url('YefimovSerif-Regular.woff') format('woff'),
+       url('YefimovSerif-Regular.ttf') format('truetype'),
+       url('YefimovSerif-Regular.svg#YefimovSerif-Regular') format('svg'),
+       url('YefimovSerif-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
