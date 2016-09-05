@@ -51,8 +51,13 @@ gulp.task('headersass', function() {
 
 gulp.task('libs', function() {
 	return gulp.src([
-				'app/libs/jquery/dist/jquery.min.js',
-				// 'app/libs/magnific-popup/magnific-popup.min.js'
+				'app/libs/jquery/jquery-1.11.2.min.js',
+				'app/libs/jquery.nicescroll/jquery.nicescroll.min.js',
+				'app/libs/revslider/js/jquery.themepunch.revolution.min.js',
+				'app/libs/revslider/js/jquery.themepunch.tools.min.js'
+
+				//'app/libs/modernizr/modernizr.js'
+
 			])
 			.pipe(concat('libs.min.js'))
 			.pipe(uglify())

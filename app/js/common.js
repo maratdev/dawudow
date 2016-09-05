@@ -1,61 +1,63 @@
 $(function() {
 
-    //Плавная прокрутка к объекту
-    $(".scroll").click(function(event){
-//Перехватываем обработку по умолчанию события нажатия мыши
-        event.preventDefault();
-//Получаем полный url - например, mysitecom/index.htm#home
-        var full_url = this.href;
-//Разделяем url по символу # и получаем имя целевой секции - home в адресе mysitecom/index.htm#home
-        var parts = full_url.split("#");
-        var trgt = parts[1];
-//Получаем смещение сверху для целевой секции
-        var target_offset = $("#"+trgt).offset();
-        var target_top = target_offset.top;
-//Переходим в целевую секцию установкой позиции прокрутки страницы в позицию целевой секции
-        $('html, body').animate({scrollTop:target_top}, 1500);
+    //Header во весь экран
+    function heightDetect(){
+
+        $(".revslider-initialised").css("height", $(window).height());
+
+    }
+
+    heightDetect();
+    $(window).resize(function() {
+        heightDetect();
     });
 
 
-    //SVG Fallback
-    if(!Modernizr.svg) {
-        $("img[src*='svg']").attr("src", function() {
-            return $(this).attr("src").replace(".svg", ".png");
-        });
-    };
+    var tpj=jQuery;
 
-    //E-mail Ajax форма
-    //Documentation & Example: https://github.com/agragregra/uniMail
-    $("form").submit(function() { //Change
-        var th = $(this);
-        $.ajax({
-            type: "POST",
-            url: "mail.php", //Change
-            data: th.serialize()
-        }).done(function() {
-            $('.success').addClass("visible");
-            setTimeout(function() {
-                // Done Functions
-                th.trigger("reset");
-                $('.success').removeClass("visible");
-                $.magnificPopup.close();
-            }, 2500);
-        });
-        return false;
-    });
-
-    //Chrome Smooth Scroll
-    try {
-        $.browserSelector();
-        if($("html").hasClass("chrome")) {
-            $.smoothScroll();
+    var revapi285;
+    tpj(document).ready(function() {
+        if(tpj("#rev_slider_285_1").revolution == undefined){
+            revslider_showDoubleJqueryError("#rev_slider_285_1");
+        }else{
+            revapi285 = tpj("#rev_slider_285_1").show().revolution({
+                sliderType:"standard",
+                jsFileLocation:"../libs/revslider/js/",
+                sliderLayout:"fullscreen",
+                dottedOverlay:"none",
+                delay:9000,
+                navigation: {
+                    onHoverStop:"off",
+                },
+                responsiveLevels:[1240,1024,778,480],
+                visibilityLevels:[1240,1024,778,480],
+                gridwidth:[1400,1024,778,480],
+                gridheight:[800,700,600,500],
+                lazyType:"none",
+                shadow:0,
+                spinner:"off",
+                stopLoop:"on",
+                stopAfterLoops:0,
+                stopAtSlide:1,
+                shuffle:"off",
+                autoHeight:"off",
+                disableProgressBar:"on",
+                hideThumbsOnMobile:"off",
+                hideSliderAtLimit:0,
+                hideCaptionAtLimit:0,
+                hideAllCaptionAtLilmit:0,
+                debugMode:false,
+                fallbacks: {
+                    simplifyAll:"off",
+                    nextSlideOnWindowFocus:"off",
+                    disableFocusListener:false,
+                }
+            });
         }
-    } catch(err) {
+    }); /*ready*/
 
-    };
 
-    //Плавный скролл
-    //Documentation & Example: https://github.com/inuyaksa/jquery.nicescroll
-    $("html").niceScroll();
+
+
 
 });
