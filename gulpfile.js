@@ -53,8 +53,7 @@ gulp.task('libs', function() {
 	return gulp.src([
 				'app/libs/jquery/jquery-1.11.2.min.js',
 				'app/libs/jquery.nicescroll/jquery.nicescroll.min.js',
-				'app/libs/revslider/js/jquery.themepunch.revolution.min.js',
-				'app/libs/revslider/js/jquery.themepunch.tools.min.js'
+				'app/libs/owl-carousel/owl.carousel.min.js'
 
 				//'app/libs/modernizr/modernizr.js'
 

@@ -2,11 +2,8 @@ $(function() {
 
     //Header во весь экран
     function heightDetect(){
-
-        $(".revslider-initialised").css("height", $(window).height());
-        $(".loader").css("height", $(window).height());
-
-
+        $("header").css("height", $(window).height());
+        $(".wrapper-home_center").css("height", $(window).height());
     }
 
     heightDetect();
@@ -15,53 +12,88 @@ $(function() {
     });
 
 
-    var tpj=jQuery;
+    //Каруселька Slider
+    var sync1 = $(".sync1");
+    var sync2 = $(".sync2");
 
-    var revapi285;
-    tpj(document).ready(function() {
-        if(tpj("#rev_slider_285_1").revolution == undefined){
-            revslider_showDoubleJqueryError("#rev_slider_285_1");
-        }else{
-            revapi285 = tpj("#rev_slider_285_1").show().revolution({
-                sliderType:"standard",
-                jsFileLocation:"../libs/revslider/js/",
-                sliderLayout:"fullscreen",
-                dottedOverlay:"none",
-                delay:9000,
-                navigation: {
-                    onHoverStop:"off",
-                },
-                responsiveLevels:[1240,1024,778,480],
-                visibilityLevels:[1240,1024,778,480],
-                gridwidth:[1400,1024,778,480],
-                gridheight:[800,700,600,500],
-                lazyType:"none",
-                shadow:0,
-                spinner:"off",
-                stopLoop:"on",
-                stopAfterLoops:0,
-                stopAtSlide:1,
-                shuffle:"off",
-                autoHeight:"off",
-                disableProgressBar:"on",
-                hideThumbsOnMobile:"off",
-                hideSliderAtLimit:0,
-                hideCaptionAtLimit:0,
-                hideAllCaptionAtLilmit:0,
-                debugMode:false,
-                fallbacks: {
-                    simplifyAll:"off",
-                    nextSlideOnWindowFocus:"off",
-                    disableFocusListener:false,
-                }
-            });
+    sync1.owlCarousel({
+        responsive: true,
+        singleItem : true,
+        navigation: false,
+        pagination:false,
+        afterAction : syncPosition,
+        responsiveRefreshRate : 200,
+        beforeMove : function(el){
         }
-    }); /*ready*/
+    });
+
+    sync2.owlCarousel({
+        items : 4,
+        mouseDrag: false,
+        touchDrag: false,
+        pullDrag: false,
+        autoWidth: true,
+        pagination:false,
+        responsiveRefreshRate : 100,
+        afterInit : function(el){
+            el.find(".active").eq(0).addClass("synced");
+        }
+    });
+
+    function syncPosition(el){
+        var current = this.currentItem;
+        $(".sync2")
+            .find(".active")
+            .removeClass("synced")
+            .eq(current)
+            .addClass("synced")
+        if($(".sync2").data("owlCarousel") !== undefined){
+            center(current)
+        }
+    }
+
+    $(".sync2").on("mouseenter", ".owl-item", function(e){
+        e.preventDefault();
+        var number = $(this).data("owlItem");
+        sync1.trigger("owl.goTo",number);
+    });
 
 
-    $(".loader").fadeOut();
-    $(".loader_inner").delay(800).fadeOut("slow");
-    $("html").niceScroll();
+
+    function fix_size() {
+        var images = $('.item img');
+        images.each(setsize);
+
+        function setsize() {
+            var img = $(this),
+                img_dom = img.get(0),
+                container = img.parents('.item');
+            if (img_dom.complete) {
+                resize();
+            } else img.one('load', resize);
+
+            function resize() {
+                if ((container.width() / container.height()) > (img_dom.width / img_dom.height)) {
+                    img.width('100%');
+                    img.height('auto');
+                } else {
+                    img.height('100%');
+                    img.width('auto');
+                }
+                var marginx=(img.width()-container.width())/-2,
+                    marginy=(img.height()-container.height())/-2;
+                console.log(marginx);
+                img.css({'margin-left': marginx, 'margin-top': marginy});
+
+            }
+        }
+    }
+    $(window).on('resize', fix_size);
+    fix_size();
+
+    //$(".loader").fadeOut();
+    //$(".loader_inner").delay(800).fadeOut("slow");
+    //$("html").niceScroll();
 
 });
 
