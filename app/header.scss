@@ -3,9 +3,50 @@
 @import "sass/base";
 
 //First screen styles
+/* Прелоадер */
+.loader {
+  background:url("img/preload.jpg");
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+}
+.loader_inner {
+  background:url("img/preload.png") no-repeat center;
+  background-size: cover;
+  height:147px;
+  width:241px;
+  margin-top: -10px;
+  margin-left: -160px;
+  left: 50%;
+  top: 50%;
+  position: absolute;
+}
 
+.logo{
+  height:148px ;
+  width: 241px;
+  margin-top: -10px;
+  margin-left: -160px;
+  left: 50%;
+  top:19px;
+  position: absolute;
+  z-index: 99;
+}
+.tp-caption{
 
+  a{
+    color: #fff;
+    &:hover{
+      text-decoration: none;
+    }
 
+  }
+}
 
 div#shell {
   display: block;

@@ -296,7 +296,8 @@ website:   	http://www.themepunch.com
 **********************************/
 
 .tp-static-layers				{	
-	position:absolute; z-index:101; top:0px;left:0px;
+	position:absolute; z-index:101; top:115px;
+	left:0px;
 	/*pointer-events:none;*/
 
 }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fc992532-731f-452a-bcb6-de79d5d137f5" name="dawudow" url="http://norris.beget.com">
+        <fileTransfer host="norris.beget.com" port="21" username="starsp_dawudov">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

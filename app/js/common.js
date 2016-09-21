@@ -4,6 +4,8 @@ $(function() {
     function heightDetect(){
 
         $(".revslider-initialised").css("height", $(window).height());
+        $(".loader").css("height", $(window).height());
+
 
     }
 
@@ -57,7 +59,9 @@ $(function() {
     }); /*ready*/
 
 
-
-
+    $(".loader").fadeOut();
+    $(".loader_inner").delay(800).fadeOut("slow");
+    $("html").niceScroll();
 
 });
+
