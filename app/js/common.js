@@ -4,6 +4,10 @@ $(function() {
     function heightDetect(){
         $("header").css("height", $(window).height());
         $(".wrapper-home_center").css("height", $(window).height());
+        $(".it1").css("height", $(window).height());
+        $(".it2").css("height", $(window).height());
+        $(".it3").css("height", $(window).height());
+        $(".it4").css("height", $(window).height());
     }
 
     heightDetect();
@@ -17,18 +21,18 @@ $(function() {
     var sync2 = $(".sync2");
 
     sync1.owlCarousel({
-        responsive: true,
-        singleItem : true,
-        navigation: false,
-        pagination:false,
-        afterAction : syncPosition,
-        responsiveRefreshRate : 200,
-        beforeMove : function(el){
-        }
+        items:1,
+        loop:true,
+        margin:10,
+        autoplay:true,
+        autoplayTimeout:1000,
+        autoplayHoverPause:true,
+        animateInClass: 'fadeIn'
     });
 
     sync2.owlCarousel({
-        items : 4,
+        animateInClass: 'fadeIn',
+        items : 8,
         mouseDrag: false,
         touchDrag: false,
         pullDrag: false,
@@ -58,38 +62,20 @@ $(function() {
         sync1.trigger("owl.goTo",number);
     });
 
-
-
-    function fix_size() {
-        var images = $('.item img');
-        images.each(setsize);
-
-        function setsize() {
-            var img = $(this),
-                img_dom = img.get(0),
-                container = img.parents('.item');
-            if (img_dom.complete) {
-                resize();
-            } else img.one('load', resize);
-
-            function resize() {
-                if ((container.width() / container.height()) > (img_dom.width / img_dom.height)) {
-                    img.width('100%');
-                    img.height('auto');
-                } else {
-                    img.height('100%');
-                    img.width('auto');
-                }
-                var marginx=(img.width()-container.width())/-2,
-                    marginy=(img.height()-container.height())/-2;
-                console.log(marginx);
-                img.css({'margin-left': marginx, 'margin-top': marginy});
-
-            }
+    var wow = new WOW({
+        boxClass:     'wow',      // animated element css class (default is wow)
+        animateClass: 'animated', // animation css class (default is animated)
+        offset:       0,          // distance to the element when triggering the animation (default is 0)
+        mobile:       true,       // trigger animations on mobile devices (default is true)
+        live:         true,       // act on asynchronously loaded content (default is true)
+        callback:     function(box) {
+            // the callback is fired every time an animation is started
+            // the argument that is passed in is the DOM node being animated
         }
-    }
-    $(window).on('resize', fix_size);
-    fix_size();
+    });
+    wow.init();
+
+
 
     //$(".loader").fadeOut();
     //$(".loader_inner").delay(800).fadeOut("slow");
