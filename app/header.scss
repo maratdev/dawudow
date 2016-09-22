@@ -2,6 +2,10 @@
 @import "sass/vars";
 @import "sass/base";
 
+//10 z-index в файле
+//loader 9999
+
+
 //First screen styles
 /* Прелоадер */
 .loader {
@@ -28,39 +32,115 @@
 }
 
 header{
+  position: relative;
   overflow: hidden;
+    .container{
+      margin: 0;
+    }
   .top-line{
-    height: 66px;
-    .logo{
+    background: -moz-linear-gradient(top,  rgba(0,0,0,0.74) 0%, rgba(0,0,0,0.73) 1%, rgba(0,0,0,0) 100%);
+    background: -webkit-linear-gradient(top,  rgba(0,0,0,0.74) 0%,rgba(0,0,0,0.73) 1%,rgba(0,0,0,0) 100%);
+    background: linear-gradient(to bottom,  rgba(0,0,0,0.74) 0%,rgba(0,0,0,0.73) 1%,rgba(0,0,0,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bd000000', endColorstr='#00000000',GradientType=0 );
 
+
+    @include outline(red);
+    width: 100%;
+    position: absolute;
+    top: 0;
+    max-height:em(177px);
+    z-index: 1;
+    .logo{
+      @include outline(green);
+      margin-top: 30px;
+      img{
+        display: block;
+        margin: 0 auto;
+      }
     }
   }
-  .top-menu{
-    height: 38px;
-  }
-  .wrapper-home_center{
-    background-size: cover;
-    overflow: hidden;
-    .owl-item{
 
+  .top-menu{
+    @include outline(yellow);
+    top:200px;
+    width: 100%;
+    position: absolute;
+    height: 38px;
+    z-index: 2;
+    .sync2{
+      .owl-wrapper{
+        .owl-item{
+          &:nth-child(-n+8){
+            &::after{
+              margin-left:10px;
+              content: "";
+              border-left: 1px solid $accent;
+              position: relative;
+              top:-22px;
+              right:12px;
+            }
+          }
+        }
+        .item{
+          a{
+            display:block;
+            margin: 0 auto;
+            text-align: center;
+            text-transform: UPPERCASE;
+            color: #fff;
+            text-shadow: 0px 1px 18px rgba(0, 0, 0, 1);
+          }
+        }
+      }
+    }
+  }
+
+  .wrapper-home_center{
+    .owl-item{
       .it1{
         height: 100%;
         width: 100%;
-        background: url("img/1bg.jpg") no-repeat center;
-        background-size: cover;
+        div{
+          @include transition-duration(1.0s);
+          position: absolute;
+          top:50%;
+          left:5%;
+          width: 30%;
+          h2{
+            margin: 0;
+            color: #fff;
+          }
+          p{
+            font-family:$default-roboto;
+            color: #fff;
+          }
+        }
+
       }
-      .it2{
-        background: url("img/2bg.jpg") no-repeat center;
-        background-size: cover;
-      }
-      .it3{
-        background: url("img/3bg.jpg") no-repeat center;
-        background-size: cover;
-      }
-      .it4{
-        background: url("img/4bg.jpg") no-repeat center;
-        background-size: cover;
-      }
+    }
+  }
+  .bottom-txt{
+    background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%);
+    background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%);
+    background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#000000',GradientType=0 );
+
+    @include outline(red);
+    height: 104px;
+    width: 100%;
+    position: absolute;
+    z-index: 3;
+    bottom: 0;
+    p{
+      margin-left:5%;
+      margin-top: 50px;
+      color: #fff;
+        span{
+          margin-left: 10px;
+          i{
+            color: $accent;
+          }
+        }
     }
   }
 }

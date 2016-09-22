@@ -11,6 +11,7 @@
 	visibility: hidden;
 	line-height: 0;
 	height: 0;
+@include transition-duration(1.0s);
 }
 /* display none until init */
 .owl-carousel{
@@ -67,5 +68,6 @@
   -webkit-transform: translate3d(0,0,0);
   -moz-transform: translate3d(0,0,0);
   -ms-transform: translate3d(0,0,0);
+
 }
 

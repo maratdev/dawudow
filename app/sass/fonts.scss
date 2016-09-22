@@ -4,4 +4,7 @@
 @include font-face("YefimovSerif-Light", "../fonts/YefimovSerif-Light/YefimovSerif-Light", light, $file-formats: eot woff woff2 ttf otf svg);
 @include font-face("YefimovSerif-Bold", "../fonts/YefimovSerif-Bold/YefimovSerif-Bold", bold, $file-formats: eot woff woff2 ttf otf svg);
 @include font-face("YefimovSerif-Bold", "../fonts/YefimovSerif-Bold/YefimovSerif-Bold", bold, $file-formats: eot woff woff2 ttf otf svg);
+@include font-face("YefimovSerif-Bold", "../fonts/YefimovSerif-Bold/YefimovSerif-Bold", bold, $file-formats: eot woff woff2 ttf otf svg);
+
+@include font-face("RobotoRegular", "../fonts/RobotoRegular/RobotoRegular", $file-formats: eot woff ttf );
 

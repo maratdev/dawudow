@@ -1,8 +1,13 @@
 @import "bourbon";
 
 $default-font: "YefimovSerif-Regular", sans-serif;
+$default-roboto: "RobotoRegular", sans-serif;
 $accent:#a78632;
 $accent2:#fff;
 $accent3:#b9b9b9;
 $body:#000;
 
+
+@mixin outline($color){
+  outline:1px solid $color;
+}
