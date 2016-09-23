@@ -2,6 +2,17 @@
 @import "vars";
 
 /*==========  Desktop First  ==========*/
+/*  Devices, Wide Screens */
+@media only screen and (max-width : 1500px){
+  .sync2{
+    .item{
+      a{
+        @include transition-duration(2.0s);
+        font-size:12px;
+      }
+    }
+  }
+}
 
 /*  Devices, Wide Screens */
 @media only screen and (max-width : 1200px){
@@ -19,7 +30,9 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px){
-  /**/
+  .top-menu{
+    display: none;
+  }
 }
 
 
@@ -49,14 +62,16 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (min-width : 480px){
-  /**/
+
 }
 
 
 
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px){
-  /**/
+  .toggle_mnu{
+    display: none;
+  }
 }
 
 

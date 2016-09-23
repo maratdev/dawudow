@@ -9,5 +9,5 @@ $body:#000;
 
 
 @mixin outline($color){
-  outline:0px solid $color;
+  outline:1px solid $color;
 }

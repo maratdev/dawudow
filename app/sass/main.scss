@@ -3,6 +3,25 @@
 @import "libs";
 
 //Custom styles here
+.content-wrapper{
+  background-color: #000;
+  width: 100%;
+  height: auto;
+  .container{
+    margin: 0 auto;
+  }
+  .box-wrapper{
+    @include outline(#fff);
+    width: 100%;
+    height:900px;
+    margin-top:240px;
+    .box{
+      height: 316px;
+      @include outline(#fff);
+    }
+  }
+}
+
 
 
 @import "media";

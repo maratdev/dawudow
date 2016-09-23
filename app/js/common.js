@@ -2,7 +2,7 @@ $(function() {
 
     //Header во весь экран
     function heightDetect(){
-        $("header").css("height", $(window).height());
+        $(".maxheight").css("height", $(window).height());
         $(".wrapper-home_center").css("height", $(window).height());
         $(".it1").css("height", $(window).height());
     }
@@ -13,6 +13,29 @@ $(function() {
     });
 
 
+    //меню
+    $(".toggle_mnu").click(function() {
+        $(".sandwich").toggleClass("active");
+    });
+
+    $(".top_mnu ul a").click(function() {
+        $(".top_mnu").fadeOut(600);
+        $(".sandwich").toggleClass("active");
+    }).append("<span>");
+
+    $(".toggle_mnu").click(function() {
+        if ($(".top_mnu").is(":visible")){
+            $(".top_text").removeClass("h_opacity");
+            $(".top_mnu").fadeOut(600);
+            $(".top_mnu li a").removeClass("fadeInUp animated");
+        }
+        else{
+            $(".top_text").addClass("h_opacity");
+            $(".top_mnu").fadeIn(600);
+            $(".top_mnu li a").addClass("fadeInUp animated");
+        }
+    });
+
 
     //Каруселька Slider
     var sync1 = $(".sync1");
@@ -22,7 +45,7 @@ $(function() {
         animateOut: 'slideOutDown',
         animateIn: 'flipInX',
         singleItem : true,
-        navigation: true,
+        navigation: false,
         pagination:false,
         afterAction : syncPosition,
         responsiveRefreshRate : 200,

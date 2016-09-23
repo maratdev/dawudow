@@ -2,3 +2,139 @@
 @import "app/libs/animate.css/animate";
 @import "app/libs/fontello/css/fontello-embedded";
 
+/* Кнопка меню */
+.toggle_mnu{
+  top: 20px;
+  left: 20px;
+  background-color:#000;
+  width: 60px;
+  height: 60px;
+  float: right;
+  position: fixed;
+  z-index: 9999;
+  border: none;
+  span{
+    display: block;
+  }
+
+
+  .sandwich {
+    width:34px;
+    height:3px;
+    position: absolute;
+    top:-15px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index:200;
+    .sw-topper {
+      position: relative;
+      top: 0;
+      width:34px;
+      height:3px;
+      background: #fff;
+      border: none;
+      @include border-top-radius(4px);
+      @include border-right-radius(4px);
+      @include border-bottom-radius(4px);
+      @include border-left-radius(4px);
+      transition: transform 0.5s, top 0.2s;
+    }
+    .sw-bottom {
+      position: relative;
+      width:34px;
+      height:3px;
+      top:3px *2.2;
+      background: #fff;
+      border: none;
+      @include border-top-radius(4px);
+      @include border-right-radius(4px);
+      @include border-bottom-radius(4px);
+      @include border-left-radius(4px);
+      transition: transform 0.5s, top 0.2s;
+      @include transition-delay(0.2s);
+
+    }
+    .sw-footer {
+      position: relative;
+      width:34px;
+      height:3px;
+      top:3px *4.5;
+      background: #fff;
+      border: none;
+      @include border-top-radius(4px);
+      @include border-right-radius(4px);
+      @include border-bottom-radius(4px);
+      @include border-left-radius(4px);
+      transition: all 0.5s;
+      @include transition-delay(0.2s);
+
+    }
+
+  }
+  /* Кнопка меню->hover */
+  .sandwich.active .sw-topper {
+    top:10px;
+    @include transform(rotate(-45deg));
+
+  }
+  .sandwich.active .sw-bottom {
+    top:6px;
+    @include transform(rotate(45deg));
+  }
+  .sandwich.active .sw-footer {
+    opacity: 0;
+    top: 0;
+    @include transform(rotate(180deg));
+  }
+}
+
+/* Кнопка меню*/
+.top_mnu{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.85);
+  z-index: 50;
+  right: 0;
+  top: 0;
+  display: none;
+  ul{
+    padding: 0;
+    margin-top:75px;
+    text-align: center;
+  }
+  li{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    a{
+      height:60px;
+      position: relative;
+      color: #fff;
+      display: block;
+      line-height: 5px;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+      font-size: 12px;
+      opacity: 0;
+      outline: none;
+      &:hover{
+        color: #00AA00;
+      }
+      span{
+        display: block;
+        position: relative;
+        top:-34px;
+        left: 0;
+        height:100%;
+        @include transition-duration(7ms);
+
+        &:hover{
+          background-color: rgba(255, 255, 255, .05);
+        }
+      }
+    }
+  }
+}
