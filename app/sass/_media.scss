@@ -39,7 +39,65 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px){
-  /**/
+  header{
+    .top-line{
+      .logo{
+        img{
+          max-width: 50%;
+        }
+      }
+    }
+    .wrapper-home_center{
+      .owl-item{
+        .it1{
+          div{
+            width:90% ;
+            h2{
+              font-size:em(19px);
+            }
+            p{
+              font-size:em(13px);
+              line-height: normal;
+              padding:em(1.5px);
+              text-shadow: -1px -1px 11px rgba(0, 0, 0, 1);
+              //background-color: rgba(0,0,0, .5);
+            }
+          }
+        }
+      }
+    }
+
+  }
+  .box-wrapper{
+    padding-top:0 !important;
+    .box{
+      hr{
+        width:65%;
+      }
+    }
+  }
+  .bottom-txt{
+    & p{
+      padding-top: 15px;
+      font-size: 14px;
+      i{
+        margin-right:5px;
+        font-size: 16px;
+      }
+    }
+  }
+  #small-dialog{
+    padding: 40px 30px;
+    img{
+      margin-left: 35px;
+    }
+    div{
+      p{
+        font-size:em(10px);
+      }
+    }
+
+  }
 }
 
 
