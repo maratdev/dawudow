@@ -6,6 +6,8 @@ $(function() {
         $(".maxheight").css("height", $(window).height());
         $(".wrapper-home_center").css("height", $(window).height());
         $(".it1").css("height", $(window).height());
+        $(".parallax").css("height", $(window).height());
+        $("#scene").css("height", $(window).height());
     }
 
     heightDetect();
@@ -118,7 +120,7 @@ $(function() {
         mainClass: 'my-mfp-slide-bottom'
     });
 
-
+    $('.scene').parallax();
 
     //$(".loader").fadeOut();
     //$(".loader_inner").delay(800).fadeOut("slow");

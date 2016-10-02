@@ -68,6 +68,69 @@
   }
 }
 
+.parallax{
+  background: #000 url("../img/parallax/bg.png") no-repeat right bottom;
+  background-size: contain;
+  overflow: hidden;
+
+  .layer-1{
+    li{
+        img{
+          max-width:60%;
+          position: absolute;
+          left: 55%;
+          top: 20%;
+
+        }
+      }
+    }
+
+  .layer-2{
+    li{
+      img{
+        max-width:60%;
+        position: absolute;
+        left: 50%;
+        top: 60%;
+
+      }
+    }
+  }
+
+  .layer-3{
+    li{
+      img{
+        max-width:60%;
+        position: absolute;
+        left: 33%;
+        top: 40%;
+
+      }
+    }
+  }
+  .layer-4{
+    li{
+      img{
+        max-width:60%;
+        position: absolute;
+        left:1%;
+        top: 10%;
+
+      }
+    }
+  }
+  .layer-5{
+    li{
+      img{
+        max-width:60%;
+        position: absolute;
+        left:3%;
+        top: 60%;
+
+      }
+    }
+  }
+}
 
 
 @import "media";

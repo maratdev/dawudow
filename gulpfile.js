@@ -54,7 +54,9 @@ gulp.task('libs', function() {
 				'app/libs/jquery/jquery-1.11.2.min.js',
 				'app/libs/jquery.nicescroll/jquery.nicescroll.min.js',
 				'app/libs/owl-carousel/owl.carousel.min.js',
-				'app/libs/magnific-popup/dist/jquery.magnific-popup.min.js'
+				'app/libs/magnific-popup/dist/jquery.magnific-popup.min.js',
+				'app/libs/parallax/deploy/jquery.parallax.min.js'
+
 
 				//'app/libs/modernizr/modernizr.js'
 

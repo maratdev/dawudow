@@ -2,10 +2,606 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc1f205-9dac-4994-aa1a-9d6d883350c7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/BW-Scroll.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/Holy-Cow-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/Holy-Cow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/Mock-up-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/Mock-up.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/Relaxation.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/Sail-Away-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/Sail-Away.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/Slash-1024x576-1024x576.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/amazon_shop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/amigos-250x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/amigos.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/animation.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/app_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/app_store.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/arrow1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/arrow2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/arrow3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/arrow4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/atable.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/badge1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/badge2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/badge3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ball.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/banner_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bearded_bro.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bigbold_1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bigbold_1-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bigbold_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bigbold_2-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bigbold_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bigbold_3-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bigbold_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bike-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bike-60x60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bike.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bluebar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/blurflake1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/blurflake2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/blurflake3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/blurflake4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bmw2-1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bmw2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bmw3-1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bmw3-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bmw6-1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bmw6-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bmw7-1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bmw7-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/board-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/board.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/borealis.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bow_tie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/bow_tie_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/box_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/browserslide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/burning_horse.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/calbuco-250x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/calbuco.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/calltoaction_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/cameraicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/carousel_element_ipad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/carousel_element_iphone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/carousel_element_laptop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/cc-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/chair.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/city_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/clickhere.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/cloud1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/cloud2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/cloud3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/coffee1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/coffee_cup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/coffee_cup2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/coffeecup.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/comingsoon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/comingsoon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/concept.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/concept1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/concept4-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/concept4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/concept_bg2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/concept_bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/contentarea.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/corner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_1_1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_1_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_2-2-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_2_1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_2_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_3-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_3_1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_3_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_4-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_bg1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/creative_bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/custombar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/datcolor-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/datcolor-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/datcolor-60x60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/datcolor-70x70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/datcolor.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/deer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/desk_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/desktopbg1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/desktopbg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/detailview_ipad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/discover1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/discover1_detail-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/discover2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/discover2_detail-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/discover3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/discover3_detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/discover4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/discover4_detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/drink_cover-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/drink_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/drinkwinecover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/dummy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/editor_layers1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ellipse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/eraser1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/eraser_pink.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/examplebar3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/examplelayer1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/examplelayer2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/examplelayer3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/express_bglight-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/express_bglight.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/express_ipad_content1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/express_iphone_content1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/express_lightlogo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/express_macbook_content1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/expresswhitelogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ezlogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fashion-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fashion.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fashion_bg1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fashion_bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fashion_bg2_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fashion_bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fashion_bg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fashion_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/feature_girl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fitness-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fitness-60x60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/fitness.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/flat_ipad2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/flat_iphone2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food1-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food2-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food3-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food4-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food5-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food6-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/food6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/frontpage_element_ipad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/frontpage_element_iphone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/frontpage_element_laptop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/full_1-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/full_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/full_3-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/full_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/full_4-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/full_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/full_5-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/full_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/generic-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/girl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/girl_beach.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/girl_transparent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/girls-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/girls-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/girls.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/girly.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/glasses-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/glasses.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/glasses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/glasses2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/google_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/greenstripe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/guide-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/guide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/guy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/guy_transparent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/gym1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/gym1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/gym2-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/gym2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/gymlogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/hand.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/headphones.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/hero_element_ipad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/hero_element_iphone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/hero_element_laptop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ic_autorenew_24px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ic_chevron_left_36px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ic_chevron_right_24px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ic_close_36px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ic_done_24px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ic_expand_more_24px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ic_keyboard_arrow_down_24px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ic_play_circle_filled_24px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ic_polymer_24px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iceberg-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iceberg-250x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iceberg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/icebg-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/icebg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/icon_download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ihpone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ihpone_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/illu1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/illu2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/illu3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imac_dark3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imac_mountain.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery11-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery12-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery3-1-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery3-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery4-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery5-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery7-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery9-2-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/imagegallery9-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ipad_big-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ipad_content_new2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ipad_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ipad_glare-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ipad_img1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iphone_big-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iphone_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iphone_content_new1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iphone_cutout.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iphone_glare.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iphone_image1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iphone_img1-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iphone_slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iphone_slide3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iwatch_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/iwatch_smallimage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/jim_smile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/lambo-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/lambo-60x60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/lambo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/lamp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/lamp2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/landscape-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/landscape-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/landscape.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/level1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/level2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/level32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/level41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/light1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/light_deer-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/light_deer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/lightbg-100x50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/lightbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/lighton1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/loader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/macbook-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/macbook.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/macbook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/macbook_screen_content.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/macbookpro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/magazine_girl-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/mainslider_element2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/mainslider_element3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/media1-250x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/media1-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/media1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/mountainbg-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/mountainbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/mouse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/muesli-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/muesli.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nature1-160x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nature1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nature2-160x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nature2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nature3-160x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nature3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nature4-160x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nature4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nature5-1-160x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nature5-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel2-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel2-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel4-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel4-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel5-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel5-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel6-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel6-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel6-60x60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newscarousel6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newsmag.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newsmag_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newspaper_bg1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newspaper_bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newspaper_bg2-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newspaper_bg2-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newspaper_bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newspaper_bg3-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newspaper_bg3-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newspaper_bg3-320x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/newspaper_bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg2-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg2-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg2-70x70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg3-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg3-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg3-70x70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg5-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgeneric_bg5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgenericherobg-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgenericherobg-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgenericherobg-70x70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/notgenericherobg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/nyctech.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/office_cover-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/office_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/officeloop_cover-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/officeloop_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_bottom_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_bottom_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_left_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_right_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_top_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_top_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_twig1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_twig2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_wide.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ornament_wide_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/owl1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/owl2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/pagelogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/paper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/paper2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/parallaxbgcut.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/pen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/pencil1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/person_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/person_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone1-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone2-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone3-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone4-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone5-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone6-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone7-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone8-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone9-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/phone9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photocam_hand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photocam_hand2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photocam_lens.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photographer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography2-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography2-320x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography3-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography3-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography4-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography4-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography4-320x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography5-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography6-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography6-320x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography7-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography7-320x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography8-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography8-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography9-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography9-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography9-320x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography9-60x60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_contact-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_contact-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_contact-320x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_contact.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_thumb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_thumb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_thumb3-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_thumb3-320x160.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_thumb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_thumb4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_thumb5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photography_thumb6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/photoguy1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/pierbg-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/pierbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/pinkhorse.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/plant.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/premiumbg1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/premiumbg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/premiumdiamond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/project_1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/project_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/project_2-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/project_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/project_3-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/project_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/project_4-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/project_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/publishslide.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/red_deer-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/red_deer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/relative_ball.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/relative_ball_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/relative_eraser1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/relative_eraser2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/relative_glasses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/relative_pencil1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/relative_pencil2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/relative_pencil3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/relative_triangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/restaurant_bg_1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/restaurant_bg_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/restaurant_bg_2-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/restaurant_bg_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/restaurant_bg_3-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/restaurant_bg_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/restaurant_logo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/revslider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/revslider_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/rockband.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/rvsldr-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/rvsldrlogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/screen1_content.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/shortcode.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slide3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slide4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slide5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slide6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slide7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slide8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slide9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slidebg1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slidebg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slidebg6-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slidebg6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slider_element_ipad1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slider_element_iphone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slider_element_laptop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slider_faqs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slider_templates.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/slider_tickets.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/space_cover-250x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/space_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/sports2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/sports_sublinebg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/standing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/supportedsocial.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_thumb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_thumb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_thumb4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_thumb5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_thumb6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_thumb7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/team_thumb9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/testimonial4-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/the_sky.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/themenu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/thesea.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/timelines1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/touchit-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/touchit-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/touchit-60x60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/touchit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/tp_bird.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/tp_dude.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/tp_vid_clouds-1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/tp_vid_clouds-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/tp_vid_fish.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/tp_vid_streets.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/tplogo_black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/traincover-100x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/traincover-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/traincover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/transparent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel1-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel1-70x70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel2-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel2-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel3-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel3-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel4-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel4-280x43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel4-70x70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/travel4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/tree_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/typing_cover-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/typing_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/underline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/usb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/video.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/vimeobg-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/vimeobg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/watch_big-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/web1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/web2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/web3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/web4-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/webproduct_darkbg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/webproduct_darkbg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/webproduct_darkbg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/welcome.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/whiteboard_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/whitehorse_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/wineyard-150x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/wineyard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/wineyards.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/woo1-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/woo1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/woo2-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/woo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/woo3-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/woo3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/wood_pencil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/wooden_floor.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/workspace.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/workspace_large.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/wowfactor1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/youtube1_cover-250x100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/youtube1_cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/youtubebg-100x50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/youtubebg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/images/ziczac.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.min.css" afterPath="$PROJECT_DIR$/app/css/main.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/common.js" afterPath="$PROJECT_DIR$/app/js/common.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/libs.min.js" afterPath="$PROJECT_DIR$/app/js/libs.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_libs.scss" afterPath="$PROJECT_DIR$/app/sass/_libs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/main.scss" afterPath="$PROJECT_DIR$/app/sass/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
     </list>
     <ignored path="dawudow.loc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,21 +630,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="56" column="75" selection-start-line="56" selection-start-column="75" selection-end-line="56" selection-end-column="75" />
+            <state vertical-scroll-proportion="-8.4">
+              <caret line="112" column="35" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_libs.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/sass/_libs.scss">
+      <file leaf-file-name="focus-parallax.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../111111-применить/Слайдеры/codecanyon-2580848-slider-revolution-responsive-jquery-plugin/examples/- Original Previews -/focus-parallax.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19444445">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state vertical-scroll-proportion="-4.3968253">
+              <caret line="187" column="53" selection-start-line="187" selection-start-column="44" selection-end-line="187" selection-end-column="53" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#9;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../parallax.loc/matthew.wagerfield.com/parallax/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.4">
+              <caret line="81" column="60" selection-start-line="81" selection-start-column="60" selection-end-line="81" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.0">
+              <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/libs/parallax/deploy/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.4247894">
+              <caret line="2183" column="21" selection-start-line="2183" selection-start-column="16" selection-end-line="2183" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="112" column="26" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -73,19 +716,20 @@
         <option value="$PROJECT_DIR$/app/sass/_vars.scss" />
         <option value="$PROJECT_DIR$/app/sass/_base.scss" />
         <option value="$PROJECT_DIR$/app/libs/magnific-popup/dist/magnific-popup.css" />
-        <option value="$PROJECT_DIR$/app/sass/main.scss" />
         <option value="$PROJECT_DIR$/app/header.scss" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/men.html" />
         <option value="$PROJECT_DIR$/app/sass/_media.scss" />
         <option value="$PROJECT_DIR$/app/libs/owl-carousel/owl.carousel.js" />
         <option value="$PROJECT_DIR$/app/libs/owl-carousel/owl.carousel.min.js" />
-        <option value="$PROJECT_DIR$/app/js/common.js" />
         <option value="$PROJECT_DIR$/app/libs/rev-slider/css/layers.css" />
         <option value="$PROJECT_DIR$/app/libs/rev-slider/css/navigation.css" />
-        <option value="$PROJECT_DIR$/app/demo.html" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/app/sass/_libs.scss" />
+        <option value="$PROJECT_DIR$/app/js/common.js" />
+        <option value="$PROJECT_DIR$/app/libs/parallax/deploy/css/styles.css" />
+        <option value="$PROJECT_DIR$/app/sass/main.scss" />
+        <option value="$PROJECT_DIR$/app/demo.html" />
       </list>
     </option>
   </component>
@@ -162,8 +806,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-93" />
+    <option name="y" value="85" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
@@ -261,6 +905,102 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dawudow.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dawudow.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parallax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dawudow.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dawudow.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parallax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dawudow.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dawudow.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parallax" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dawudow.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dawudow.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -315,7 +1055,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-93" y="85" width="1936" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -356,83 +1096,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/men.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="160" column="20" selection-start-line="160" selection-start-column="20" selection-end-line="160" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/libs/font-awesome/scss/font-awesome.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/libs/font-awesome/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29166666">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../englishtime.loc/app/libs/font-awesome/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/fonts.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../englishtime.loc/app/libs/font-awesome/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../englishtime.loc/app/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5402685">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="70" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/libs/font-awesome/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.024305556">
-          <caret line="3" column="374" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../englishtime.loc/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3402778">
-          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../wordpres.loc/www/css/elements.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../jamal-tea.loc/www/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.7">
@@ -630,24 +1293,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.024305556">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_media.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.024305556">
           <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -669,28 +1318,178 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.3078704">
           <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../111111-применить/Слайдеры/codecanyon-2580848-slider-revolution-responsive-jquery-plugin/examples/- Original Previews -/focus-parallax.html">
+    <entry file="file://$USER_HOME$/Desktop/jquery.jkit.custom.1d9dgefa09200tc.1.2.16/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.9">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="111" />
+        <state vertical-scroll-proportion="3.7222223">
+          <caret line="1542" column="48" selection-start-line="1542" selection-start-column="48" selection-end-line="1542" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/parallax-master/parallax-master/examples/scripts/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5369127">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/parallax-master/parallax-master/examples/scripts/zepto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/parallax-master/parallax-master/examples/interactive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.13194445">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/parallax-master/parallax-master/examples/jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/parallax-master/parallax-master/examples/relative.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024305556">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/parallax-master/parallax-master/examples/simple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="56" column="75" selection-start-line="56" selection-start-column="75" selection-end-line="56" selection-end-column="75" />
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_libs.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19444445">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.1701389">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../111111-применить/Слайдеры/codecanyon-2580848-slider-revolution-responsive-jquery-plugin/revolution/css/settings.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16245487">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../111111-применить/Слайдеры/codecanyon-2580848-slider-revolution-responsive-jquery-plugin/revolution/css/navigation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13718411">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../111111-применить/Слайдеры/codecanyon-2580848-slider-revolution-responsive-jquery-plugin/revolution/css/layers.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23826715">
+          <caret line="11" column="79" selection-start-line="11" selection-start-column="79" selection-end-line="11" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../111111-применить/Слайдеры/codecanyon-2580848-slider-revolution-responsive-jquery-plugin/examples/- Original Previews -/focus-parallax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.3968253">
+          <caret line="187" column="53" selection-start-line="187" selection-start-column="44" selection-end-line="187" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#9;n#li#0;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../111111-применить/Слайдеры/codecanyon-2580848-slider-revolution-responsive-jquery-plugin/revolution/js/extensions/source/revolution.extension.layeranimation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15679443">
+          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="112" column="26" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.0">
+          <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../parallax.loc/matthew.wagerfield.com/parallax/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.4">
+          <caret line="81" column="60" selection-start-line="81" selection-start-column="60" selection-end-line="81" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.4">
+          <caret line="112" column="35" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/libs/parallax/deploy/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.4247894">
+          <caret line="2183" column="21" selection-start-line="2183" selection-start-column="16" selection-end-line="2183" selection-end-column="21" />
           <folding />
         </state>
       </provider>
