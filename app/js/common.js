@@ -44,47 +44,62 @@ $(function() {
     var sync1 = $(".sync1");
     var sync2 = $(".sync2");
 
+    var current = {number:0, time:Date.now()};
+
     sync1.owlCarousel({
-        animateOut: 'slideOutDown',
-        animateIn: 'flipInX',
+        mouseDrag  : false,
+        touchDrag  : false,
         singleItem : true,
-        navigation: false,
-        pagination:false,
-        afterAction : syncPosition,
+        navigation : false,
+        pagination : false,
+        slideSpeed : 10,
+        // afterAction : syncPosition,
         responsiveRefreshRate : 200,
-        beforeMove : function(el){
-        }
+        addClassActive : true,
+        transitionStyle : "custom",
     });
+
+    console.log(sync1.data('owlCarousel'));
 
     sync2.owlCarousel({
         items : 8,
         itemsDesktop      : [1199,10],
-        itemsDesktopSmall     : [979,10],
+        itemsDesktopSmall : [979,10],
         itemsTablet       : [768,8],
         itemsMobile       : [479,4],
-        pagination:false,
+        pagination        : false,
         responsiveRefreshRate : 100,
-        afterInit : function(el){
-            el.find(".active").eq(0).addClass("synced");
-        }
+        // afterInit : function(el){
+        // console.log(el.find(".active").eq(0));
+        // el.find(".active").eq(0).addClass("synced");
+        // }
     });
 
-    function syncPosition(el){
-        var current = this.currentItem;
-        $(".sync2")
-            .find(".active")
-            .removeClass("synced")
-            .eq(current)
-            .addClass("synced")
-        if($(".sync2").data("owlCarousel") !== undefined){
-            center(current)
-        }
-    }
+    // function syncPosition(el){
+    // var current = this.currentItem;
+    // $(".sync2 .active").removeClass("synced");
+    // $(".sync2 .owl-item").eq(current).addClass("synced");
+    // if($(".sync2").data("owlCarousel") !== undefined){
+    //     center(current)
+    // }
+    // }
 
     $(".sync2").on("mouseenter", ".owl-item", function(e){
         e.preventDefault();
+        var owl = sync1.data('owlCarousel');
         var number = $(this).data("owlItem");
-        sync1.trigger("owl.goTo",number);
+        var time = Date.now();
+        if (number == current.number) return;
+        if (time - current.time < 300) return;
+        if (owl.isTransition) {
+            $(owl.$owlItems[current.number])
+                .toggleClass(owl.inClass, false)
+                .toggleClass(owl.outClass, true);
+            owl.isTransition = false;
+        }
+        owl.goTo(number);
+        current.number = number;
+        current.time = time;
     });
 
 

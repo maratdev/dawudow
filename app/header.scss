@@ -109,21 +109,7 @@ header{
       .it1{
         height: 100%;
         width: 100%;
-        div{
-          @include transition-duration(1.0s);
-          position: absolute;
-          top:50%;
-          left:5%;
-          width: 30%;
-          h2{
-            margin: 0;
-            color: #fff;
-          }
-          p{
-            font-family:$default-roboto;
-            color: #fff;
-          }
-        }
+
 
       }
     }
