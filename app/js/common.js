@@ -1,6 +1,7 @@
 $(function() {
     $("html").niceScroll();
 
+
     //Header во весь экран
     function heightDetect(){
         $(".maxheight").css("height", $(window).height());
@@ -49,7 +50,6 @@ $(function() {
 
     sync1.owlCarousel({
         mouseDrag  : false,
-        touchDrag  : false,
         singleItem : true,
         navigation : false,
         pagination : false,
@@ -60,7 +60,6 @@ $(function() {
         transitionStyle : "custom",
     });
 
-    console.log(sync1.data('owlCarousel'));
 
     sync2.owlCarousel({
         items : 8,
@@ -138,8 +137,8 @@ $(function() {
 
     $('.scene').parallax();
 
-    //$(".loader").fadeOut();
-    //$(".loader_inner").delay(800).fadeOut("slow");
+   $(".loader").fadeOut();
+   $(".loader_inner").delay(900).fadeOut("slow");
 
 
 
