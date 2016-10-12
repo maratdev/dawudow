@@ -8,6 +8,7 @@ $(function() {
         $(".it1").css("height", $(window).height());
         $(".parallax").css("height", $(window).height());
         $("#scene").css("height", $(window).height());
+        $(".full-height").css("height", $(window).height());
     }
 
     heightDetect();

@@ -18,9 +18,7 @@ var gulp           = require('gulp'),
 
 gulp.task('browser-sync', function() {
 	browserSync({
-		server: {
-			baseDir: 'app'
-		},
+		proxy:"dawudow.loc/app/",
 		notify: false
 	});
 });
@@ -69,7 +67,9 @@ gulp.task('libs', function() {
 gulp.task('watch', ['sass', 'libs', 'browser-sync'], function() {
 	gulp.watch('app/header.scss', ['headersass']);
 	gulp.watch('app/sass/**/*.scss', ['sass']);
-	gulp.watch('app/*.html', browserSync.reload);
+	gulp.watch('app/libs/**/*.css', ['sass']);
+	gulp.watch('app/**/*.php', browserSync.reload);
+	gulp.watch('app/**/*.html', browserSync.reload);
 	gulp.watch('app/js/**/*.js', browserSync.reload);
 });
 
@@ -85,7 +85,7 @@ gulp.task('imagemin', function() {
 });
 
 gulp.task('buildhtml', function() {
-	gulp.src(['app/*.html'])
+	gulp.src(['app/**/*.html'])
 			.pipe(fileinclude({
 				prefix: '@@'
 			}))

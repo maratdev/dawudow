@@ -132,6 +132,18 @@
   }
 }
 
+.contact-txt{
+  height: 800px;
+  background-color:$body;
+  padding-top: 50px;
+  p{
+    margin: 0;
+    color: $accent;
+    padding: 100px;
+    font-size: em(19px);
+  }
+}
+
 
 @import "media";
 
