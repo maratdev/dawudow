@@ -2,7 +2,7 @@
 <html class="no-js" lang="ru">
 <head>
 	<meta charset="utf-8">
-	<title>Dawudow</title>
+	<title>Dawudoff </title>
 	<meta name="description" content="">
 	<meta name="keywords" content="ключевые слова" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -33,13 +33,13 @@
 	<script>!function(e){"use strict";function t(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)};function n(t,n){return e.localStorage&&localStorage[t+"_content"]&&localStorage[t+"_file"]===n};function a(t,a){if(e.localStorage&&e.XMLHttpRequest)n(t,a)?o(localStorage[t+"_content"]):l(t,a);else{var s=r.createElement("link");s.href=a,s.id=t,s.rel="stylesheet",s.type="text/css",r.getElementsByTagName("head")[0].appendChild(s),r.cookie=t}}function l(e,t){var n=new XMLHttpRequest;n.open("GET",t,!0),n.onreadystatechange=function(){4===n.readyState&&200===n.status&&(o(n.responseText),localStorage[e+"_content"]=n.responseText,localStorage[e+"_file"]=t)},n.send()}function o(e){var t=r.createElement("style");t.setAttribute("type","text/css"),r.getElementsByTagName("head")[0].appendChild(t),t.styleSheet?t.styleSheet.cssText=e:t.innerHTML=e}var r=e.document;e.loadCSS=function(e,t,n){var a,l=r.createElement("link");if(t)a=t;else{var o;o=r.querySelectorAll?r.querySelectorAll("style,link[rel=stylesheet],script"):(r.body||r.getElementsByTagName("head")[0]).childNodes,a=o[o.length-1]}var s=r.styleSheets;l.rel="stylesheet",l.href=e,l.media="only x",a.parentNode.insertBefore(l,t?a:a.nextSibling);var c=function(e){for(var t=l.href,n=s.length;n--;)if(s[n].href===t)return e();setTimeout(function(){c(e)})};return l.onloadcssdefined=c,c(function(){l.media=n||"all"}),l},e.loadLocalStorageCSS=function(l,o){n(l,o)||r.cookie.indexOf(l)>-1?a(l,o):t(e,"load",function(){a(l,o)})}}(this);</script>
 	<!-- Load Fonts CSS Start -->
 	<script>
-		loadCSS( "css/fonts.min.css?ver=1.0.0", false, "all" ); // Loading fonts, if the site is located in a subfolder
+		loadCSS( "css/fonts.min.css?ver=1.1.0", false, "all" ); // Loading fonts, if the site is located in a subfolder
 		// loadLocalStorageCSS( "webfonts", "css/fonts.min.css?ver=1.0.0" ); // Loading fonts, if the site is at the root
 	</script>
 	<!-- Load Fonts CSS End -->
 	<!-- Load Custom CSS Start -->
-	<!--<Deject>--><script>loadCSS( "header.min.css?ver=1.0.0", false, "all" );</script><!--</Deject>-->
-	<script>loadCSS( "css/main.min.css?ver=1.0.0", false, "all" );</script>
+	<!--<Deject>--><script>loadCSS( "header.min.css?ver=1.1.0", false, "all" );</script><!--</Deject>-->
+	<script>loadCSS( "css/main.min.css?ver=1.1.0", false, "all" );</script>
 	<!-- Load Custom CSS End -->
 	<!-- Load Custom CSS Compiled without JS Start -->
 	<noscript>
@@ -58,6 +58,11 @@
 
 </head>
 <body>
+<div id="google_translate_element"></div><script type="text/javascript">
+	function googleTranslateElementInit() {
+		new google.translate.TranslateElement({pageLanguage: 'ru', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
+	}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <div class="loader">
 <div class="loader_inner"></div>
 </div>
@@ -104,7 +109,7 @@
 		</div>
 	</div>
 
-	<div class="wrapper-home_center">
+	<div class="wrapper-home_center hidden-xs">
 		<div class="owl-carousel sync1">
 			<div class="item">
 				<div class="it1" style="background: url('img/man.jpg') no-repeat center;  background-size: cover;"></div>
@@ -141,7 +146,60 @@
 		</div>
 
 	</div>
-	<div class="bottom-txt">
+
+	<div class="module container hidden-lg hidden-md hidden-sm">
+
+			<div class="box col-xs-12">
+				<a href="man/man.html"><img src="img/man.jpg" alt=""></a>
+				<h2><a href="man/man.html">Мужская коллекция</a></h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci alias at consequatur consequuntur dicta facere facilis harum illum ipsum, laboriosam modi nobis optio repellendus repudiandae, saepe sit temporibus unde vel.</p>
+				<a href="man/man.html" class="button">Подробнее</a>
+			</div>
+		<div class="box col-xs-12">
+			<a href="woman/index.html"><img src="img/woman.jpg" alt=""></a>
+			<h2><a href="woman/index.html">Женская коллекция</a></h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci alias at consequatur consequuntur dicta facere facilis harum illum ipsum, laboriosam modi nobis optio repellendus repudiandae, saepe sit temporibus unde vel.</p>
+			<a href="woman/index.html" class="button">Подробнее</a>
+		</div>
+		<div class="box col-xs-12">
+			<a href="kids/index.html"><img src="img/kids.jpg" alt=""></a>
+			<h2><a href="kids/index.html">Детская коллекция</a></h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci alias at consequatur consequuntur dicta facere facilis harum illum ipsum, laboriosam modi nobis optio repellendus repudiandae, saepe sit temporibus unde vel.</p>
+			<a href="kids/index.html" class="button">Подробнее</a>
+		</div>
+		<div class="box col-xs-12">
+			<a href="aksesuari/index.html"><img src="img/aksesuari.jpg" alt=""></a>
+			<h2><a href="aksesuari/index.html">Аксессуары</a></h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci alias at consequatur consequuntur dicta facere facilis harum illum ipsum, laboriosam modi nobis optio repellendus repudiandae, saepe sit temporibus unde vel.</p>
+			<a href="aksesuari/index.html" class="button">Подробнее</a>
+		</div>
+		<div class="box col-xs-12">
+			<a href="sculpturi/index.html"><img src="img/sculpturi.jpg" alt=""></a>
+			<h2><a href="sculpturi/index.html">Скульптуры</a></h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci alias at consequatur consequuntur dicta facere facilis harum illum ipsum, laboriosam modi nobis optio repellendus repudiandae, saepe sit temporibus unde vel.</p>
+			<a href="sculpturi/index.html" class="button">Подробнее</a>
+		</div>
+		<div class="box col-xs-12">
+			<a href="suvenir/index.html"><img src="img/suv.jpg" alt=""></a>
+			<h2><a href="suvenir/index.html">Сувениры</a></h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci alias at consequatur consequuntur dicta facere facilis harum illum ipsum, laboriosam modi nobis optio repellendus repudiandae, saepe sit temporibus unde vel.</p>
+			<a href="suvenir/index.html" class="button">Подробнее</a>
+		</div>
+
+		<div class="bottom-txt">
+			<p>© 2016 Dawudoff Jaerly
+			<span>
+			<a href="#"><i class="demo-icon icon-youtube-play"></i></a>
+			<a href="#"><i class="demo-icon icon-instagram"></i></a>
+			<a href="#"><i class="demo-icon icon-vkontakte"></i></a>
+			<a href="#"><i class="demo-icon icon-facebook-official"></i></a>
+			</span>
+
+			</p>
+		</div>
+	</div>
+
+	<div class="bottom-txt hidden-xs container-fluid">
 		<p>© 2016 Dawudoff Jaerly
 			<span>
 			<a href="#"><i class="demo-icon icon-youtube-play"></i></a>

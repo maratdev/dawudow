@@ -58,9 +58,11 @@
 
 </head>
 <body>
-<!--<div class="loader">-->
-	<!--<div class="loader_inner"></div>-->
-<!--</div>-->
+<div id="google_translate_element"></div><script type="text/javascript">
+	function googleTranslateElementInit() {
+		new google.translate.TranslateElement({pageLanguage: 'ru', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT}, 'google_translate_element');
+	}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <header>
 	<button class="toggle_mnu">
 			<span class="sandwich">
@@ -71,6 +73,7 @@
 	</button>
 	<nav class="top_mnu">
 		<ul>
+			<li class='item'><a href="index.html">Главная</a></li>
 			<li class='item'><a href="man/man.html">Мужская коллекция</a></li>
 			<li class='item'><a href="woman">Женская коллекция</a></li>
 			<li class='item'><a href="kids">Детская коллекция</a></li>
@@ -90,6 +93,7 @@
 			</div>
 			<div class="top-menu">
 				<div class="sync2 owl-carousel">
+					<div class='item'><a href="index.html">Главная</a></div>
 					<div class='item'><a href="man/man.html">Мужская коллекция</a></div>
 					<div class='item'><a href="woman">Женская коллекция</a></div>
 					<div class='item'><a href="kids">Детская коллекция</a></div>
@@ -108,13 +112,35 @@
 	<ul class="scene">
 
 
+		<!--<li class="layer layer-1" data-depth="0.10">-->
+			<!--<ul class="depth-40">-->
+				<!--<li  class="swing-1"><img src="img/parallax/bg-1.png" alt="Rope"></li>-->
+			<!--</ul>-->
+		<!--</li>-->
+		<!--<li class="layer layer-2" data-depth="0.20">-->
+			<!--<ul class="depth-20">-->
+				<!--<li><img src="img/parallax/bg-2.png" alt="Rope"></li>-->
 
+			<!--</ul>-->
+		<!--</li>-->
 		<li class="layer layer-3 hidden-xs" data-depth="0.40">
 			<ul class="depth-40">
 				<li><img src="img/parallax/bg-3.png" alt="Rope"></li>
 
 			</ul>
 		</li>
+		<!--<li class="layer layer-4" data-depth="0.60">-->
+			<!--<ul class="depth-60">-->
+				<!--<li><img src="img/parallax/bg-4.png" alt="Rope"></li>-->
+
+			<!--</ul>-->
+		<!--</li>-->
+		<!--<li class="layer layer-5" data-depth="0.80">-->
+			<!--<ul class="depth-80">-->
+				<!--<li><img src="img/parallax/bg-5.png" alt="Rope"></li>-->
+
+			<!--</ul>-->
+		<!--</li>-->
 
 
 

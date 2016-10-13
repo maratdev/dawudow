@@ -62,27 +62,16 @@ $(function() {
 
 
     sync2.owlCarousel({
-        items : 8,
+        items : 9,
         itemsDesktop      : [1199,10],
         itemsDesktopSmall : [979,10],
         itemsTablet       : [768,8],
         itemsMobile       : [479,4],
         pagination        : false,
         responsiveRefreshRate : 100,
-        // afterInit : function(el){
-        // console.log(el.find(".active").eq(0));
-        // el.find(".active").eq(0).addClass("synced");
-        // }
     });
 
-    // function syncPosition(el){
-    // var current = this.currentItem;
-    // $(".sync2 .active").removeClass("synced");
-    // $(".sync2 .owl-item").eq(current).addClass("synced");
-    // if($(".sync2").data("owlCarousel") !== undefined){
-    //     center(current)
-    // }
-    // }
+
 
     $(".sync2").on("mouseenter", ".owl-item", function(e){
         e.preventDefault();
@@ -140,7 +129,9 @@ $(function() {
    $(".loader").fadeOut();
    $(".loader_inner").delay(900).fadeOut("slow");
 
-
+    //var text = $('.goog-te-gadget').html();
+    //text = text.replace('Технологии','');
+    //$('.goog-te-gadget').html(text);
 
 });
 
