@@ -12,6 +12,13 @@
       }
     }
   }
+  .menu{
+    a.item{
+        @include transition-duration(2.0s);
+        font-size:12px;
+
+    }
+  }
 }
 
 /*  Devices, Wide Screens */
@@ -23,7 +30,14 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px){
-  /**/
+  .menu{
+    a.item{
+      @include transition-duration(2.0s);
+      font-size:10px;
+      padding: 8px;
+
+    }
+  }
 }
 
 
@@ -74,6 +88,7 @@
 
   }
   .box-wrapper{
+    margin-top: 170px !important;
     padding-top:0 !important;
     .box{
       hr{
@@ -85,6 +100,7 @@
     & p{
       padding-top: 15px;
       font-size: 14px;
+      width: 100% !important;
       i{
         margin-right:5px;
         font-size: 16px;
@@ -103,13 +119,35 @@
     }
 
   }
-  .contact-txt{
-
+  .parallax{
+    background: #000 url("../img/parallax/bg.png") no-repeat center top;
+    background-size:100%;
     p{
-      margin-top: -180px;
+      line-height: normal;
+      width: 100%;
+      margin-top:265px;
       padding:35px 15px;
-      font-size: em(16px);
+      font-size: em(13px);
+      margin-bottom:25px;
     }
+  }
+  .box-hover-none{
+    overflow: hidden;
+    p{
+      left: 10%;
+      top:10% !important;
+      font-size: em(10px) !important;
+    }
+    img{
+      overflow: hidden;
+      display: block;
+      max-width: 225% !important;
+    }
+
+
+  }
+  .box{
+    height: auto !important;
   }
 
 

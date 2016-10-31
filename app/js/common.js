@@ -1,4 +1,5 @@
 $(function() {
+
     $("html").niceScroll();
 
 
@@ -7,7 +8,6 @@ $(function() {
         $(".maxheight").css("height", $(window).height());
         $(".wrapper-home_center").css("height", $(window).height());
         $(".it1").css("height", $(window).height());
-        $(".parallax").css("height", $(window).height());
         $("#scene").css("height", $(window).height());
         $(".full-height").css("height", $(window).height());
     }
@@ -62,7 +62,7 @@ $(function() {
 
 
     sync2.owlCarousel({
-        items : 9,
+        items : 8,
         itemsDesktop      : [1199,10],
         itemsDesktopSmall : [979,10],
         itemsTablet       : [768,8],
@@ -92,46 +92,37 @@ $(function() {
     });
 
 
-    $('.popup-with-zoom-anim').magnificPopup({
-        type: 'inline',
+    $('.zoom-gallery').magnificPopup({
+        delegate: 'a',
+        type: 'image',
+        closeOnContentClick: false,
+        closeBtnInside: false,
+        mainClass: 'mfp-with-zoom mfp-img-mobile',
+        image: {
+            verticalFit: true,
+            titleSrc: function(item) {
+                return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">image source</a>';
+            }
+        },
+        gallery: {
+            enabled: false
+        },
+        zoom: {
+            enabled: true,
+            duration: 300, // don't foget to change the duration also in CSS
+            opener: function(element) {
+                return element.find('img');
+            }
+        }
 
-        fixedContentPos: false,
-        fixedBgPos: true,
-
-        overflowY: 'auto',
-
-        closeBtnInside: true,
-        preloader: false,
-
-        midClick: true,
-        removalDelay: 300,
-        mainClass: 'my-mfp-zoom-in'
-    });
-
-    $('.popup-with-move-anim').magnificPopup({
-        type: 'inline',
-
-        fixedContentPos: false,
-        fixedBgPos: true,
-
-        overflowY: 'auto',
-
-        closeBtnInside: true,
-        preloader: false,
-
-        midClick: true,
-        removalDelay: 300,
-        mainClass: 'my-mfp-slide-bottom'
     });
 
     $('.scene').parallax();
 
    $(".loader").fadeOut();
    $(".loader_inner").delay(900).fadeOut("slow");
+    $(".sync2 .owl-item").attr('style', '');
 
-    //var text = $('.goog-te-gadget').html();
-    //text = text.replace('Технологии','');
-    //$('.goog-te-gadget').html(text);
 
 });
 

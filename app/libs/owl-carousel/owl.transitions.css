@@ -301,6 +301,10 @@ header .wrapper-home_center .owl-item .it1-desc h2 {
 }
 
 header .wrapper-home_center .owl-item .it1-desc p {
-  font-family: RobotoRegular,sans-serif;
+  font-family:'Palatino', sans-serif;
   color: #fff;
+  font-size: 26px;
+}
+header .wrapper-home_center .owl-item .it1-desc p span{
+  font-size: 24px;
 }

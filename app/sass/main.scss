@@ -2,32 +2,38 @@
 @import "vars";
 @import "libs";
 
+
+a:focus{
+  border: none;
+  outline: none;
+}
 //Custom styles here
 .content-wrapper{
-  background-color: #000;
+  background-color: #fff;
   width: 100%;
   height: auto;
   .container{
     margin: 0 auto;
   }
   .box-wrapper{
-
+    background-color:#EFF2F4 ;
     @include outline(#fff);
     width: 100%;
     height:auto;
     margin-top:240px;
-    padding-top:90px;
+    //padding-top:90px;
     padding-bottom: 50px;
     .box{
       padding-top:8px;
       height: 316px;
       @include outline(#fff);
-      background: url("../img/reflex.png") no-repeat bottom;
+      //background: url("../img/reflex.png") no-repeat bottom;
       &:hover{
         @include transition-duration(1.0s);
         webkit-box-shadow:  0px 0px 0px 1px $accent;
         -moz-box-shadow:  0px 0px 0px 1px $accent;
         box-shadow:  0px 0px 0px 1px $accent;
+        background-color: rgba(255,255,255, .8);
         hr{
            border-top: 1px solid $accent;
           @include transition-duration(1.0s);
@@ -52,10 +58,10 @@
       p{
         margin: 0;
         padding: 0;
-        color: #fff;
+        color: #000;
         text-align: center;
         a{
-          color: #fff;
+          color: #000;
           text-decoration: none;
         }
       }
@@ -63,6 +69,66 @@
         h2{
           color: #fff !important;
         }
+      }
+      .max-with{
+        overflow: hidden;
+        max-width: 100%;
+      }
+    }
+    .box-hover-none:hover{
+      box-shadow:none;
+      background-color: transparent;
+    }
+    .box-hover-none{
+      position: relative;
+      height: 340px;
+      img{
+       margin: 0;
+        -webkit-box-reflect:initial;
+      }
+      p{
+        width: 40%;
+        font-size: em(22px);
+        font-family: "Palatino", sans-serif;
+        right:2%;
+        top:20%;
+        color: #fff;
+        z-index: 5;
+        display: block;
+        position: absolute;
+        line-height: normal;
+        span{
+          line-height: normal;
+          font-size: em(19px);
+          text-align: center;
+        }
+      }
+      .box-p{
+        width: inherit;
+        position: static;
+        color: #333;
+        text-align: center;
+        margin-top: 10px;
+        text-transform: uppercase;
+        font-size: em(17px);
+        &:before, &:after{
+          content: '';
+          display: inline-block;
+          vertical-align: middle;
+          box-sizing: border-box;
+          width: 10%;
+          height: 2px;
+          background: #333;
+          border: solid #EFF2F4;
+          border-width: 0 10px;
+        }
+      }
+
+    }
+    .img_box{
+      margin-bottom:20px;
+      span{
+        text-align: center;
       }
     }
     .box-none{
@@ -133,6 +199,17 @@
       }
     }
   }
+  p{
+    text-align: center;
+    color: #fff;
+    margin-top:120px;
+    width:1200px;
+    padding: 100px;
+    font-size: em(17px);
+    span{
+      font-size: em(30px);
+    }
+  }
 }
 
 .contact-txt{
@@ -141,7 +218,7 @@
   padding-top: 50px;
   p{
     margin: 0;
-    color: $accent;
+    color: #fff;
     padding: 100px;
     font-size: em(19px);
   }
