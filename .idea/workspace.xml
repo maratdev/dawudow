@@ -2,168 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc1f205-9dac-4994-aa1a-9d6d883350c7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/sculpturi/big/1.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/1.png" afterPath="$PROJECT_DIR$/app/img/aksesuari/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/2.png" afterPath="$PROJECT_DIR$/app/img/aksesuari/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/3.png" afterPath="$PROJECT_DIR$/app/img/aksesuari/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/5.png" afterPath="$PROJECT_DIR$/app/img/aksesuari/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/9.png" afterPath="$PROJECT_DIR$/app/img/aksesuari/9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/big/1.jpg" afterPath="$PROJECT_DIR$/app/img/aksesuari/big/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/big/2.jpg" afterPath="$PROJECT_DIR$/app/img/aksesuari/big/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/aksesuari/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/aksesuari/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/big/5.jpg" afterPath="$PROJECT_DIR$/app/img/aksesuari/big/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/big/6.jpg" afterPath="$PROJECT_DIR$/app/img/aksesuari/big/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/big/7.jpg" afterPath="$PROJECT_DIR$/app/img/aksesuari/big/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/big/8.jpg" afterPath="$PROJECT_DIR$/app/img/aksesuari/big/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/aksesuari/big/9.jpg" afterPath="$PROJECT_DIR$/app/img/aksesuari/big/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/kids/big/1.jpg" afterPath="$PROJECT_DIR$/app/img/kids/big/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/kids/big/2.jpg" afterPath="$PROJECT_DIR$/app/img/kids/big/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/kids/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/kids/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/garniture/3.png" afterPath="$PROJECT_DIR$/app/img/man/garniture/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/garniture/5.png" afterPath="$PROJECT_DIR$/app/img/man/garniture/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/garniture/big/2.jpg" afterPath="$PROJECT_DIR$/app/img/man/garniture/big/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/garniture/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/man/garniture/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/garniture/big/5.jpg" afterPath="$PROJECT_DIR$/app/img/man/garniture/big/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/garniture/big/6.jpg" afterPath="$PROJECT_DIR$/app/img/man/garniture/big/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/kolca/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/man/kolca/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/kolca/big/6.jpg" afterPath="$PROJECT_DIR$/app/img/man/kolca/big/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/podveski/2.png" afterPath="$PROJECT_DIR$/app/img/man/podveski/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/podveski/big/1.jpg" afterPath="$PROJECT_DIR$/app/img/man/podveski/big/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/podveski/big/2.jpg" afterPath="$PROJECT_DIR$/app/img/man/podveski/big/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/podveski/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/man/podveski/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/pryajki/3.png" afterPath="$PROJECT_DIR$/app/img/man/pryajki/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/pryajki/4.png" afterPath="$PROJECT_DIR$/app/img/man/pryajki/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/pryajki/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/man/pryajki/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/pryajki/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/man/pryajki/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/zaponki/big/1.jpg" afterPath="$PROJECT_DIR$/app/img/man/zaponki/big/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/zaponki/big/2.jpg" afterPath="$PROJECT_DIR$/app/img/man/zaponki/big/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/zaponki/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/man/zaponki/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/man/zaponki/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/man/zaponki/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/parallax/bg.png" afterPath="$PROJECT_DIR$/app/img/parallax/bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/preload.jpg" afterPath="$PROJECT_DIR$/app/img/preload.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/preload.png" afterPath="$PROJECT_DIR$/app/img/preload.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/2.png" afterPath="$PROJECT_DIR$/app/img/sculpturi/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/3.png" afterPath="$PROJECT_DIR$/app/img/sculpturi/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/4.png" afterPath="$PROJECT_DIR$/app/img/sculpturi/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/5.png" afterPath="$PROJECT_DIR$/app/img/sculpturi/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/6.png" afterPath="$PROJECT_DIR$/app/img/sculpturi/6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/7.png" afterPath="$PROJECT_DIR$/app/img/sculpturi/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/big/2.jpg" afterPath="$PROJECT_DIR$/app/img/sculpturi/big/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/sculpturi/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/sculpturi/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/big/5.jpg" afterPath="$PROJECT_DIR$/app/img/sculpturi/big/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/big/6.jpg" afterPath="$PROJECT_DIR$/app/img/sculpturi/big/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sculpturi/big/7.jpg" afterPath="$PROJECT_DIR$/app/img/sculpturi/big/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/suvenir/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/suvenir/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/suvenir/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/suvenir/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/suvenir/big/5.jpg" afterPath="$PROJECT_DIR$/app/img/suvenir/big/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman.jpg" afterPath="$PROJECT_DIR$/app/img/woman.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/bg.jpg" afterPath="$PROJECT_DIR$/app/img/woman/bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/braslet/big/2.jpg" afterPath="$PROJECT_DIR$/app/img/woman/braslet/big/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/braslet/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/woman/braslet/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/braslet/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/woman/braslet/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/braslet/big/5.jpg" afterPath="$PROJECT_DIR$/app/img/woman/braslet/big/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/broshi/big/1.jpg" afterPath="$PROJECT_DIR$/app/img/woman/broshi/big/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/broshi/big/10.jpg" afterPath="$PROJECT_DIR$/app/img/woman/broshi/big/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/broshi/big/2.jpg" afterPath="$PROJECT_DIR$/app/img/woman/broshi/big/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/broshi/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/woman/broshi/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/broshi/big/5.jpg" afterPath="$PROJECT_DIR$/app/img/woman/broshi/big/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/broshi/big/6.jpg" afterPath="$PROJECT_DIR$/app/img/woman/broshi/big/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/broshi/big/7.jpg" afterPath="$PROJECT_DIR$/app/img/woman/broshi/big/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/broshi/big/8.jpg" afterPath="$PROJECT_DIR$/app/img/woman/broshi/big/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/broshi/big/9.jpg" afterPath="$PROJECT_DIR$/app/img/woman/broshi/big/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/garniture/big/1.jpg" afterPath="$PROJECT_DIR$/app/img/woman/garniture/big/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/garniture/big/2.jpg" afterPath="$PROJECT_DIR$/app/img/woman/garniture/big/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/garniture/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/woman/garniture/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/garniture/big/5.jpg" afterPath="$PROJECT_DIR$/app/img/woman/garniture/big/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/1.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/10.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/11.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/12.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/13.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/14.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/15.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/16.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/17.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/5.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/6.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/7.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolca/big/8.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolca/big/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolie/big/3.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolie/big/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolie/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolie/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolie/big/5.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolie/big/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/kolie/big/7.jpg" afterPath="$PROJECT_DIR$/app/img/woman/kolie/big/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/1.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/12.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/16.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/17.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/19.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/20.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/24.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/25.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/25.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/31.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/31.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/34.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/34.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/podveski/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/woman/podveski/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/sergi/big/10.jpg" afterPath="$PROJECT_DIR$/app/img/woman/sergi/big/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/sergi/big/11.jpg" afterPath="$PROJECT_DIR$/app/img/woman/sergi/big/11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/sergi/big/4.jpg" afterPath="$PROJECT_DIR$/app/img/woman/sergi/big/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/sergi/big/8.jpg" afterPath="$PROJECT_DIR$/app/img/woman/sergi/big/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/woman/sergi/big/9.jpg" afterPath="$PROJECT_DIR$/app/img/woman/sergi/big/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/aksesuari/index.html" afterPath="$PROJECT_DIR$/app/aksesuari/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contacts.html" afterPath="$PROJECT_DIR$/app/contacts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.min.css" afterPath="$PROJECT_DIR$/app/css/main.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/header.min.css" afterPath="$PROJECT_DIR$/app/header.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/header.scss" afterPath="$PROJECT_DIR$/app/header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/common.js" afterPath="$PROJECT_DIR$/app/js/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/libs.min.js" afterPath="$PROJECT_DIR$/app/js/libs.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/kids/index.html" afterPath="$PROJECT_DIR$/app/kids/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/man/braslet.html" afterPath="$PROJECT_DIR$/app/man/braslet.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/man/garniture.html" afterPath="$PROJECT_DIR$/app/man/garniture.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/man/kolca.html" afterPath="$PROJECT_DIR$/app/man/kolca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/man/man.html" afterPath="$PROJECT_DIR$/app/man/man.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/man/podveski.html" afterPath="$PROJECT_DIR$/app/man/podveski.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/man/pryajki.html" afterPath="$PROJECT_DIR$/app/man/pryajki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/man/zaponki.html" afterPath="$PROJECT_DIR$/app/man/zaponki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/men.html" afterPath="$PROJECT_DIR$/app/men.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_libs.scss" afterPath="$PROJECT_DIR$/app/sass/_libs.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_media.scss" afterPath="$PROJECT_DIR$/app/sass/_media.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/main.scss" afterPath="$PROJECT_DIR$/app/sass/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sculpturi/index.html" afterPath="$PROJECT_DIR$/app/sculpturi/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/suvenir/index.html" afterPath="$PROJECT_DIR$/app/suvenir/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/woman/braslet.html" afterPath="$PROJECT_DIR$/app/woman/braslet.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/woman/broshi.html" afterPath="$PROJECT_DIR$/app/woman/broshi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/woman/garniture.html" afterPath="$PROJECT_DIR$/app/woman/garniture.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/woman/index.html" afterPath="$PROJECT_DIR$/app/woman/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/woman/kolca.html" afterPath="$PROJECT_DIR$/app/woman/kolca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/woman/kolie.html" afterPath="$PROJECT_DIR$/app/woman/kolie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/woman/podveski.html" afterPath="$PROJECT_DIR$/app/woman/podveski.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/woman/sergi.html" afterPath="$PROJECT_DIR$/app/woman/sergi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/aksesuari/index.html" afterPath="$PROJECT_DIR$/dist/aksesuari/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/kids/index.html" afterPath="$PROJECT_DIR$/dist/kids/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/man/braslet.html" afterPath="$PROJECT_DIR$/dist/man/braslet.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/man/garniture.html" afterPath="$PROJECT_DIR$/dist/man/garniture.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/man/kolca.html" afterPath="$PROJECT_DIR$/dist/man/kolca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/man/man.html" afterPath="$PROJECT_DIR$/dist/man/man.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/man/podveski.html" afterPath="$PROJECT_DIR$/dist/man/podveski.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/man/pryajki.html" afterPath="$PROJECT_DIR$/dist/man/pryajki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/man/zaponki.html" afterPath="$PROJECT_DIR$/dist/man/zaponki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/sculpturi/index.html" afterPath="$PROJECT_DIR$/dist/sculpturi/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/suvenir/index.html" afterPath="$PROJECT_DIR$/dist/suvenir/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/woman/braslet.html" afterPath="$PROJECT_DIR$/dist/woman/braslet.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/woman/broshi.html" afterPath="$PROJECT_DIR$/dist/woman/broshi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/woman/garniture.html" afterPath="$PROJECT_DIR$/dist/woman/garniture.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/woman/index.html" afterPath="$PROJECT_DIR$/dist/woman/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/woman/kolca.html" afterPath="$PROJECT_DIR$/dist/woman/kolca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/woman/kolie.html" afterPath="$PROJECT_DIR$/dist/woman/kolie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/woman/podveski.html" afterPath="$PROJECT_DIR$/dist/woman/podveski.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/woman/sergi.html" afterPath="$PROJECT_DIR$/dist/woman/sergi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
     </list>
     <ignored path="dawudow.loc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -192,11 +32,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/woman/index.html">
+      <file leaf-file-name="kolca.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/woman/kolca.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36458334">
-              <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.6111111">
+              <caret line="311" column="66" selection-start-line="311" selection-start-column="66" selection-end-line="311" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sergi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/woman/sergi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="27.6">
+              <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -252,7 +102,6 @@
         <option value="$PROJECT_DIR$/app/woman/broshi.html" />
         <option value="$PROJECT_DIR$/app/woman/garniture.html" />
         <option value="$PROJECT_DIR$/app/woman/index.html" />
-        <option value="$PROJECT_DIR$/app/woman/kolca.html" />
         <option value="$PROJECT_DIR$/app/woman/kolie.html" />
         <option value="$PROJECT_DIR$/app/woman/podveski.html" />
         <option value="$PROJECT_DIR$/app/woman/sergi.html" />
@@ -261,6 +110,7 @@
         <option value="$PROJECT_DIR$/app/sculpturi/index.html" />
         <option value="$PROJECT_DIR$/app/suvenir/index.html" />
         <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/woman/kolca.html" />
       </list>
     </option>
   </component>
@@ -396,6 +246,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dawudow.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dawudow.loc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woman" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -838,22 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/woman/podveski.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="74.4">
-          <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/woman/sergi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="74.4">
-          <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/kids/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="68.9">
@@ -896,18 +748,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/woman/kolca.html">
+    <entry file="file://$PROJECT_DIR$/app/woman/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state vertical-scroll-proportion="0.36458334">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/woman/podveski.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="64.7">
+          <caret line="341" column="24" selection-start-line="341" selection-start-column="24" selection-end-line="341" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/woman/sergi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="27.6">
           <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/woman/index.html">
+    <entry file="file://$PROJECT_DIR$/app/woman/kolca.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36458334">
-          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.6111111">
+          <caret line="311" column="66" selection-start-line="311" selection-start-column="66" selection-end-line="311" selection-end-column="66" />
           <folding />
         </state>
       </provider>
