@@ -1,5 +1,6 @@
 $(function() {
 
+
     $("html").niceScroll();
 
 
@@ -99,10 +100,7 @@ $(function() {
         closeBtnInside: false,
         mainClass: 'mfp-with-zoom mfp-img-mobile',
         image: {
-            verticalFit: true,
-            titleSrc: function(item) {
-                return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">image source</a>';
-            }
+            verticalFit: true
         },
         gallery: {
             enabled: false
@@ -117,12 +115,60 @@ $(function() {
 
     });
 
+    $('.popup-with-zoom-anim').magnificPopup({
+        type: 'inline',
+
+        fixedContentPos: false,
+        fixedBgPos: true,
+
+        overflowY: 'auto',
+
+        closeBtnInside: true,
+        preloader: false,
+
+        midClick: true,
+        removalDelay: 300,
+        mainClass: 'my-mfp-zoom-in'
+    });
+
+
+
     $('.scene').parallax();
 
    $(".loader").fadeOut();
-   $(".loader_inner").delay(900).fadeOut("slow");
-    $(".sync2 .owl-item").attr('style', '');
+   $(".loader_inner").delay(2000).fadeOut("slow");
+   $(".sync2 .owl-item").attr('style', '');
+   $(".slides_control").attr('style', '');
 
 
-});
+    $('#products').slides({
+        preload: true,
+        effect: 'slide, fade',
+        crossfade: true,
+        slideSpeed: 200,
+        fadeSpeed: 500,
+        generateNextPrev: true,
+        generatePagination: false
+    });
+
+    $('#products2').slides({
+        preload: true,
+        effect: 'slide, fade',
+        crossfade: true,
+        slideSpeed: 200,
+        fadeSpeed: 500,
+        generateNextPrev: true,
+        generatePagination: false
+    });
+    $('#products3').slides({
+        preload: true,
+        effect: 'slide, fade',
+        crossfade: true,
+        slideSpeed: 200,
+        fadeSpeed: 500,
+        generateNextPrev: true,
+        generatePagination: false
+    });
+
+    });
 

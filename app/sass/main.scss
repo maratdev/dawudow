@@ -138,7 +138,7 @@ a:focus{
 }
 
 .parallax{
-  background: #000 url("../img/parallax/bg.png") no-repeat right bottom;
+  background: #000 url("../img/parallax/bg.png") no-repeat left bottom;
   background-size: contain;
   overflow: hidden;
 
@@ -203,7 +203,7 @@ a:focus{
     text-align: center;
     color: #fff;
     margin-top:120px;
-    width:1200px;
+    max-width:100%;
     padding: 100px;
     font-size: em(17px);
     span{

@@ -52,32 +52,35 @@
 
 
 /* Extra Small Devices, Phones */
-@media only screen and (max-width : 480px){
-
+@media only screen and (max-width : 480px) {
+  .pagination{
+    display: none;
+  }
   .loader_inner {
-    margin-left: -110px !important;
+    margin-left:15px !important;
+    left: 0% !important;
 
   }
-  header{
-    .top-line{
-      .logo{
-        img{
+  header {
+    .top-line {
+      .logo {
+        img {
           max-width: 50%;
         }
       }
     }
-    .wrapper-home_center{
-      .owl-item{
-        .it1{
-          div{
-            width:90% ;
-            h2{
-              font-size:em(19px);
+    .wrapper-home_center {
+      .owl-item {
+        .it1 {
+          div {
+            width: 90%;
+            h2 {
+              font-size: em(19px);
             }
-            p{
-              font-size:em(13px);
+            p {
+              font-size: em(13px);
               line-height: normal;
-              padding:em(1.5px);
+              padding: em(1.5px);
               text-shadow: -1px -1px 11px rgba(0, 0, 0, 1);
               //background-color: rgba(0,0,0, .5);
             }
@@ -87,71 +90,114 @@
     }
 
   }
-  .box-wrapper{
+  .box-wrapper {
     margin-top: 170px !important;
-    padding-top:0 !important;
-    .box{
-      hr{
-        width:65%;
+    padding-top: 0 !important;
+    .box {
+      hr {
+        width: 65%;
       }
     }
   }
-  .bottom-txt{
-    & p{
+  .bottom-txt {
+    & p {
       padding-top: 15px;
       font-size: 14px;
       width: 100% !important;
-      i{
-        margin-right:5px;
+      i {
+        margin-right: 5px;
         font-size: 16px;
       }
     }
   }
-  #small-dialog{
-    padding: 40px 30px;
-    img{
-      margin-left: 35px;
-    }
-    div{
-      p{
-        font-size:em(10px);
-      }
-    }
 
-  }
-  .parallax{
+  .parallax {
     background: #000 url("../img/parallax/bg.png") no-repeat center top;
-    background-size:100%;
-    p{
+    background-size: 100%;
+    p {
       line-height: normal;
       width: 100%;
-      margin-top:265px;
-      padding:35px 15px;
+      margin-top: 265px;
+      padding: 35px 15px;
       font-size: em(13px);
-      margin-bottom:25px;
+      margin-bottom: 25px;
     }
   }
-  .box-hover-none{
+  .box-hover-none {
     overflow: hidden;
-    p{
+    p {
       left: 10%;
-      top:10% !important;
+      top: 10% !important;
       font-size: em(10px) !important;
     }
-    img{
+    img {
       overflow: hidden;
       display: block;
       max-width: 225% !important;
     }
 
-
   }
-  .box{
+  .box {
     height: auto !important;
   }
 
+  #small-dialog, #small-dialog2 {
+    padding: 40px 30px;
+    img {
+      margin-left: 35px;
+    }
+    div {
+      p {
+        font-size: em(10px);
+      }
+    }
 
+  }
+
+  #container {
+    width: 275px !important;
+    #products_example {
+      width: 275px !important;
+      height:245px ;
+
+      #products, #products2, #products3 {
+        overflow: hidden;
+        margin-left: 0;
+        .pagination {
+          float: none !important;
+          width: 213px !important;
+          margin-left: 0 !important;
+          img {
+            margin-left: 0 !important;
+          }
+        }
+        .slides_container {
+          width: 266px !important;
+          height: 274px !important;
+
+          .slides_control {
+            width: 266px !important;
+            height: auto !important;
+          }
+
+          img {
+            margin: 0 auto !important;
+            width: 100%;
+            left: 75px !important;
+          }
+        }
+        .next{
+          left: 203px !important;
+          top: 55px;
+        }
+        .prev{
+          top: 55px;
+        }
+      }
+    }
+  }
 }
+
 
 
 

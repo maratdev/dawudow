@@ -53,7 +53,8 @@ gulp.task('libs', function() {
 				'app/libs/jquery.nicescroll/jquery.nicescroll.min.js',
 				'app/libs/owl-carousel/owl.carousel.min.js',
 				'app/libs/magnific-popup/dist/jquery.magnific-popup.min.js',
-				'app/libs/parallax/deploy/jquery.parallax.min.js'
+				'app/libs/parallax/deploy/jquery.parallax.min.js',
+				'app/libs/slides/slides.min.jquery.js'
 
 
 				//'app/libs/modernizr/modernizr.js'
@@ -71,6 +72,8 @@ gulp.task('watch', ['sass', 'libs', 'browser-sync'], function() {
 	gulp.watch('app/**/*.php', browserSync.reload);
 	gulp.watch('app/**/*.html', browserSync.reload);
 	gulp.watch('app/js/**/*.js', browserSync.reload);
+	gulp.watch('app/img/**/*.jpg', browserSync.reload);
+	gulp.watch('app/img/**/*.png', browserSync.reload);
 });
 
 gulp.task('imagemin', function() {
