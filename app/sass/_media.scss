@@ -47,6 +47,13 @@
   .top-menu{
     display: none;
   }
+  .loader_inner {
+    display: block;
+    margin: 60% auto !important;
+    height: 197px !important;
+    width: 291px !important;
+
+  }
 }
 
 
@@ -57,9 +64,10 @@
     display: none;
   }
   .loader_inner {
-    margin-top: -85px !important;
-    margin-left:15px !important;
-    left: 0% !important;
+    display: block;
+    margin: 60% auto !important;
+    height: 197px !important;
+    width: 291px !important;
 
   }
   header {
@@ -118,7 +126,7 @@
     p {
       line-height: normal;
       width: 100%;
-      margin-top: 265px;
+      margin-top: 450px;
       padding: 35px 15px;
       font-size: em(13px);
       margin-bottom: 25px;

@@ -136,7 +136,7 @@ $(function() {
     $('.scene').parallax();
 
    $(".loader").fadeOut();
-   $(".loader_inner").delay(10000).fadeOut("slow");
+   $(".loader_inner").delay(8500).fadeOut("slow");
    $(".sync2 .owl-item").attr('style', '');
    $(".slides_control").attr('style', '');
 
