@@ -304,11 +304,13 @@ header .wrapper-home_center .owl-item .it1-desc2 {
 header .wrapper-home_center .owl-item .it1-desc2 h2 {
   margin: 0;
   color: #fff;
+  font-size:24px;
 }
 header .wrapper-home_center .owl-item .it1-desc2 p {
   font-family:'Palatino', sans-serif;
   color: #fff;
   font-size: 16px;
+  text-align: center;
 }
 
 header .wrapper-home_center .owl-item .it1-desc h2 {

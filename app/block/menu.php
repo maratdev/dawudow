@@ -14,7 +14,7 @@
         <li class='item'><a href="#">Скульптуры</a></li>
         <li class='item'><a href="#">Сувениры</a></li>
         <li class='item'><a href="#">Медиа</a></li>
-        <li class='item'><a href="contacts.html">Контакты</a></li>
+        <li class='item'><a href="contacts.html">О нас</a></li>
     </ul>
 </nav>
 <div class="container">

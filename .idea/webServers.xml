@@ -2,11 +2,12 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fc992532-731f-452a-bcb6-de79d5d137f5" name="dawudow" url="http://rocky.beget.com">
-        <fileTransfer host="rocky.beget.com" port="21" password="dfc7dfcbdfd8dfcbdfdedf9ddf9ddfe5" username="vore77_dawudof">
+      <webServer id="fc992532-731f-452a-bcb6-de79d5d137f5" name="dawudow" url="http://starsp.beget.tech">
+        <fileTransfer host="starsp.beget.tech" port="21" username="vore77_dawudof" password="dfc7dfcbdfd8dfcbdfdedf9ddf9ddfe5">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
